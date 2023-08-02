@@ -1,5 +1,6 @@
 # Path-Finding-Algorithm
-<br>
+
+This Path Finding Algorithm, helps users to determine the shortest paths from point A -> B on large scale node-maps, it can be used for various purposes including maze-running and GPS path finding.
 <br>
 
 ## Algorithm
@@ -12,6 +13,6 @@ The algorithm employs recursion to navigate through neighboring nodes until it r
 
 Upon reaching the destination, the algorithm gathers all the paths leading to it and returns them as a list of paths.
 
-The path with the least weight is finally returned.
+The path with the least weight is finally returned, in the form of a ordered list.
 
 ![newnodemap](https://github.com/IbrahimEllahi/Path-Finding-Algorithm/assets/85767913/cd1d2193-6f58-43e4-a941-0238a4d89307)
