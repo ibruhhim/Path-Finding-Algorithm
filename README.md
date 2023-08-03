@@ -15,4 +15,5 @@ Upon reaching the destination, the algorithm gathers all the paths leading to it
 
 The path with the least weight is finally returned, in the form of a ordered list.
 
-![newnodemap](https://github.com/IbrahimEllahi/Path-Finding-Algorithm/assets/85767913/cd1d2193-6f58-43e4-a941-0238a4d89307)
+
+![newnodemap](https://github.com/IbrahimEllahi/Path-Finding-Algorithm/assets/85767913/ae1c5bac-a8cd-4ee4-a513-c74f4e9a26fd)
