@@ -63,8 +63,6 @@ class Path:
 
     def shortest_path(self, selected_nodes: RequestedPath) -> Path:
 
-
-        start, end = selected_nodes
         all_paths = self.get_all_paths(selected_nodes)
         weights = []
 
